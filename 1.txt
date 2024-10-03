@@ -3,3 +3,4 @@
 Fortnite
 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
 A = {1,2,3,4,5}
+git remote set-url origin https://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@github.com/haeg21/R2
